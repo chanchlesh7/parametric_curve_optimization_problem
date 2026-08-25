@@ -1,0 +1,7 @@
+Theta (radian)        = 0.523598566157
+Theta (degree)        = 29.999988
+M                     = 0.030001
+X                     = 55.000003
+Mean L1 Distance      = 0.000428
+Median L1 Distance    = 0.000429
+Maximum L1 Distance   = 0.001253
