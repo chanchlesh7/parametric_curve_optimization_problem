@@ -2,7 +2,7 @@
 
 Recovering the unknown parameters `θ` (theta), `M`, and `X` of a parametric curve from a noisy, unordered cloud of observed `(x, y)` points, using a two-stage global-then-local optimization pipeline.
 
-![Observed points and recovered curve overlay](result/curve_comparison_graph.png)
+![Observed points and recovered curve overlay](results/curve_comparison_graph.png)
 
 ## Problem
 
